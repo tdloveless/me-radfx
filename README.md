@@ -12,4 +12,6 @@ The main contents are:
 * [Lab and HW assignments](./HW/)
 
 ## Lecture Videos
-### [Kaltura Channel]()
+* [1.0 - ME RADFX Lecture 1: Course Introduction Part 1](https://iu.mediaspace.kaltura.com/media/t/1_62r6bi8z)
+* [1.1 - ME RADFX Lecture 2: Course Introduction Part 2](https://iu.mediaspace.kaltura.com/media/t/1_ypdppb1t)
+### [Kaltura Channel](https://iu.mediaspace.kaltura.com/channel/Microelectronics+Radiation+Effects+and+Reliability/354546882)
