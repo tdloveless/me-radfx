@@ -8,7 +8,7 @@ Syllabus located in [Syllabus folder](./Syllabus)<br>
 Lab and HW assignments located in [HW folder](./HW/)<br>
 
 The main contents are:
-* [Syllabus](./Syllabus)
+* [Syllabus](./Syllabus/syllabus.md)
 * [Schedule](./Schedule/schedule.md#schedule)
 * [Lecture Slides](./Slides/)
 * [Lecture Videos](#lecture-videos)
