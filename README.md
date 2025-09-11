@@ -10,6 +10,7 @@ The main contents are:
 * [Lecture Slides](./Slides/)
 * [Lecture Videos](#lecture-videos)
 * [Lab and HW assignments](./HW/)
+* [Quizzes/Concept Checks](./Quiz)
 
 ## Lecture Videos ([Kaltura Channel](https://iu.mediaspace.kaltura.com/channel/Microelectronics+Radiation+Effects+and+Reliability/354546882))
 * [1.0 - ME RADFX Lecture 1: Course Introduction Part 1](https://iu.mediaspace.kaltura.com/media/t/1_62r6bi8z)
