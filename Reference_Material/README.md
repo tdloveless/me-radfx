@@ -11,3 +11,12 @@ The main contents are:
 * [NSREC 2018 Short Course](./NSREC_SC_Y2018.pdf)
 	- Part I: A BRIEF HISTORY OF SPACE CLIMATOLOGY: FROM THE BIG BANG TO THE PRESENT
 	- Dr. Mike Xapsos, NASA Goddard Space Flight Center
+* [SPENVIS](https://www.spenvis.oma.be/intro.php)
+	- SPENVIS is a web-based instrument intended to facilitate the use of models of the spatial environment, including:
+		- coordinate generators
+		- radiation sources and effects
+		- magnetic field
+		- Geant4 tools
+		- Planetary environment
+		- other
+	- [Documentation](https://www.spenvis.oma.be/help/system/toc.html)
