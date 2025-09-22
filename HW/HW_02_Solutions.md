@@ -85,8 +85,8 @@ IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 >|Mission|Fluence|Ratio (fluence of desired mission/fluence of Starlink LEO)|
 >|--|--|--|
 >|Starlink|~6x10<sup>6</sup>|1|
->|Polar LEO|~1x10<sup>8</sup>|1.67|
->|HEO|~3x10<sup>8</sup>|5|
+>|Polar LEO|~1x10<sup>8</sup>|17|
+>|HEO|~3x10<sup>8</sup>|50|
 
 6. Which mission sees the highest flux of GCR of Z=2 and higher?  How about Z=26 and higher? Why?
 > Examining the [GCR integral flux spectrum](#GCR-Radiation-Environment): 
