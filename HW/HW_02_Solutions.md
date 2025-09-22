@@ -29,14 +29,16 @@ IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 ### 1. Orbit Models:
 ||Polar LEO|HEO|
 |--|--|--|
-|3D View|![polar leo orbit](./HW_02_Solutions/P1A-orbit.png)||
-|World Map View)|![polar leo orbit world map](./HW_02_Solutions/P1A-orbit-worldmap.png)||
+|3D View|![polar leo orbit](./HW_02_Solutions/P1A-orbit.png)|![heo orbit](./HW_02_Solutions/P1B-orbit.png)|
+|World Map View)|![polar leo orbit world map](./HW_02_Solutions/P1A-orbit-worldmap.png)|![heo orbit world map](./HW_02_Solutions/P1B-orbit-worldmap.png)|
 
 ### 2A. Trapped Radiation Environment:
 ||Polar LEO|HEO|
 |--|--|--|
 |World map of the trapped proton flux (for >10 MeV)|![polar leo orbit world map](./HW_02_Solutions/P1A-orbit-worldmap.png)|![heo orbit](./HW_02_Solutions/P1B-orbit.png)|
-|World map of the trapped proton flux (for >200 MeV)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2A-proton200MeV-worldmap.png)||
+|World map of the trapped proton flux (for >200 MeV)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2A-proton200MeV-worldmap.png)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2B-proton200MeV-worldmap.png)|
+|World map of the trapped proton flux (for >200 MeV)|![World map of the trapped proton flux (for >10 MeV)](./HW_02_Solutions/P2A-proton10MeV-worldmap.png)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2B-proton10MeV-worldmap.png)|
+
 * Trapped proton integral flux spectrum (solar min): ![Trapped proton integral flux spectrum](./trapped_proton_integral_flux_loglog.png)
 
 <!--- COMMENTED OUT ORIGINAL, RAW SPENVIS CHARTS
@@ -50,7 +52,7 @@ IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 ### 2B. Solar Radiation Environment:
 ||Polar LEO|HEO|
 |--|--|--|
-|World map of the 200 MeV solar proton attenuation factor|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3A-proton_sepflare_map-200MeV.png)||
+|World map of the 200 MeV solar proton attenuation factor|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3A-proton_sepflare_map-200MeV.png)|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3B-proton_sepflare_map-200MeV.png)|
 
 * Solar proton integral flux spectrum (worst day): ![Solar proton flux spectrum (worst day)](./solar_proton_integral_flux_loglog.png)
 * Solar heavy-ion integral flux spectrum (worst day): ![Solar HI flux spectrum (worst day)](./solar_hi_integral_flux_loglog.png)
