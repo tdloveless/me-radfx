@@ -26,11 +26,11 @@ IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 
 <!--- ## Polar LEO orbit (30 days): [polar leo orbit parameters](./HW_02_Solutions/P1A-orbit.html) -->
 
-### 1. Orbit Models:
-||Polar LEO|HEO|
-|--|--|--|
-|3D View|![polar leo orbit](./HW_02_Solutions/P1A-orbit.png)|![heo orbit](./HW_02_Solutions/P1B-orbit.png)|
-|World Map View)|![polar leo orbit world map](./HW_02_Solutions/P1A-orbit-worldmap.png)|![heo orbit world map](./HW_02_Solutions/P1B-orbit-worldmap.png)|
+### Orbit Models:
+||Starlink|Polar LEO|HEO|
+|--|--|--|--|
+|3D View|![starlink orbit](./HW_02_Solutions/P1ex-orbit.png)|![polar leo orbit](./HW_02_Solutions/P1A-orbit.png)|![heo orbit](./HW_02_Solutions/P1B-orbit.png)|
+|World Map View)|![starlink world map](./HW_02_Solutions/P1ex-orbit_map.png)|![polar leo orbit world map](./HW_02_Solutions/P1A-orbit-worldmap.png)|![heo orbit world map](./HW_02_Solutions/P1B-orbit-worldmap.png)|
 
 ### 2A. Trapped Radiation Environment:
 ||Polar LEO|HEO|
