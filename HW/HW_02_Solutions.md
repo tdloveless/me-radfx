@@ -2,7 +2,7 @@
 IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 ##  HW 2: Modeling the Natural Space Radiation Environment - <span style="color: red"> SOLUTIONS </span>
 ### This assignment uses [SPENVIS](https://www.spenvis.oma.be)
-### Flux and Fluence charts generated using [Jupyter (generate_spenvis_plots.ipynb)](./generate_spenvis_plots.ipynb)
+### Flux and Fluence charts generated using [Jupyter (generate_spenvis_plots.ipynb)](./HW_02_Solutions/generate_spenvis_plots/generate_spenvis_plots.md)
 1. Using SPENVIS, model the following orbits (assume a mission start date of Jan 1, 2026):
 
 ||Starlink Mid-Latitude LEO|Polar LEO (POES, IRIDIUM)|HEO (Van Allen Probes, MMS)|
