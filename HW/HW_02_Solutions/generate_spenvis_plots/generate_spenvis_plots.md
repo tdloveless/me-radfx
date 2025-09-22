@@ -62,12 +62,15 @@ def extract_hi_data(filename):
     # Parse the lines to extract energy and IFlux values
     for line in lines:
         line = line.strip()
-        if "'PLT_HDR', -1,'CREME-96 (worst day): solar ions'" in line or "'PLT_HDR', -1,'ESP-PSYCHIC total fluence: solar ions'" in line:
+        if "'PLT_HDR', -1,'ion spectrum (GCR)'" in line or  "'PLT_HDR', -1,'CREME-96 (worst day): solar ions'" in line or "'PLT_HDR', -1,'ESP-PSYCHIC total fluence: solar ions'" in line:
             in_hi_block = True
+            #print("hi")
         elif in_hi_block:
             # Try to parse numeric data lines (each part is an atomic number)
+            #print("hi")
             try:
                 parts = [float(x) for x in line.split(",")]
+                #print(parts)
                 if len(parts) == 185:
                     energy.append(parts[0])
                     hflux.append(parts[1])
@@ -271,6 +274,58 @@ plt.show()
 
     
 ![png](output_12_0.png)
+    
+
+
+
+```python
+# Extract GCR Ion Fluence data from mission files
+energy1, hflux1, heflux1, feflux1 = extract_hi_data("./HW_02_Solutions/starlink_spenvis_gcf.txt")
+energy2, hflux2, heflux2, feflux2 = extract_hi_data("./HW_02_Solutions/polar_leo_spenvis_gcf.txt")
+energy3, hflux3, heflux3, feflux3 = extract_hi_data("./HW_02_Solutions/heo_spenvis_gcf.txt")
+
+# convert m^-2 to cm^-2
+newhflux1 = [i * .0001 for i in hflux1]
+newhflux2 = [i * .0001 for i in hflux2]
+newhflux3 = [i * .0001 for i in hflux3]
+newheflux1 = [i * .0001 for i in heflux1]
+newheflux2 = [i * .0001 for i in heflux2]
+newheflux3 = [i * .0001 for i in heflux3]
+newfeflux1 = [i * .0001 for i in feflux1]
+newfeflux2 = [i * .0001 for i in feflux2]
+newfeflux3 = [i * .0001 for i in feflux3]
+#print(hflux1)
+#print(hflux2)
+```
+
+
+```python
+# Plot the data using logarithmic scales
+plt.figure(figsize=(10, 6))
+plt.loglog(energy1, newhflux1, marker='o', color='tab:blue', linestyle='-', label='Starlink LEO H')
+plt.loglog(energy2, newhflux2, marker='s', color='tab:orange', linestyle='-', label='Polar LEO H')
+plt.loglog(energy3, newhflux3, marker='^', color='tab:green', linestyle='-.', label='HEO H')
+plt.loglog(energy1, newheflux1, marker='o', color='blue', linestyle='--', label='Starlink LEO He')
+plt.loglog(energy2, newheflux2, marker='s', color='orange', linestyle='--', label='Polar LEO He')
+plt.loglog(energy3, newheflux3, marker='^', color='green', linestyle='-.', label='HEO He')
+plt.loglog(energy1, newfeflux1, marker='o', color='tab:blue', mfc = 'w', linestyle=':', label='Starlink LEO Fe')
+plt.loglog(energy2, newfeflux2, marker='s', color='tab:orange', mfc = 'w', linestyle='--', label='Polar LEO Fe')
+plt.loglog(energy3, newfeflux3, marker='^', color='tab:green', mfc='w', linestyle='-.', label='HEO Fe')
+plt.xlim(0.1,1e6)
+plt.ylim(1e-8,1e0)
+plt.xlabel("Energy (MeV)")
+plt.ylabel("Integral Flux (cm⁻² s⁻¹ sr⁻¹)")
+plt.title("GCR Heavy Ions Integral Flux")
+plt.grid(True, which="both", ls="--", lw=0.5)
+plt.legend()
+plt.tight_layout()
+plt.savefig("gcr_hi_integral_flux_loglog.png")
+plt.show()
+```
+
+
+    
+![png](output_14_0.png)
     
 
 
