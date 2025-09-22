@@ -1,6 +1,6 @@
 # me-radfx
 IUB ENGR-E-399/599 ME Radiation Effects and Reliability
-##  HW 2: Modeling the Natural Space Radiation Environment - <span style="color: red"> SOLUTIONS </span>
+##  [HW 2](./HW_02.md): Modeling the Natural Space Radiation Environment - <span style="color: red"> SOLUTIONS </span>
 ### This assignment uses [SPENVIS](https://www.spenvis.oma.be)
 ### Flux and Fluence charts generated using [Jupyter (generate_spenvis_plots.ipynb)](./HW_02_Solutions/generate_spenvis_plots/generate_spenvis_plots.md)
 1. Using SPENVIS, model the following orbits (assume a mission start date of Jan 1, 2026):
@@ -42,10 +42,10 @@ IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 |--|--|--|--|
 |World map of the 200 MeV solar proton attenuation factor|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3ex-proton_sepflare_map-200MeV.png)|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3A-proton_sepflare_map-200MeV.png)|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3B-proton_sepflare_map-200MeV.png)|
 
-* Solar proton integral flux spectrum (worst day): ![Solar proton flux spectrum (worst day)](./solar_proton_integral_flux_loglog.png)
-* Solar heavy-ion integral flux spectrum (worst day): ![Solar HI flux spectrum (worst day)](./solar_hi_integral_flux_loglog.png)
-* Mission average solar proton fluence spectrum: ![Solar proton fluence spectrum](./solar_proton_integral_fluence_loglog.png)
-* Mission average solar heavy-ion fluence spectrum: ![Solar HI fluence spectrum](./solar_hi_integral_fluence_loglog.png)
+* Solar proton integral flux spectrum (worst day): ![Solar proton flux spectrum (worst day)](./HW_02_Solutions/solar_proton_integral_flux_loglog.png)
+* Solar heavy-ion integral flux spectrum (worst day): ![Solar HI flux spectrum (worst day)](./HW_02_Solutions/solar_hi_integral_flux_loglog.png)
+* Mission average solar proton fluence spectrum: ![Solar proton fluence spectrum](./HW_02_Solutions/solar_proton_integral_fluence_loglog.png)
+* Mission average solar heavy-ion fluence spectrum: ![Solar HI fluence spectrum](./HW_02_Solutions/solar_hi_integral_fluence_loglog.png)
 
 #### GCR Radiation Environment:
 * GCR spectra: ![GCR proton, He, and Fe flux spectrum](./gcr_hi_integral_flux_loglog.png)
@@ -117,7 +117,7 @@ _Raw outputs for all models are located in_ [HW_02_Solutions](./HW_02_Solutions/
 * [Polar LEO GCR Particle Report](./HW_02_Solutions/P4A-GCR.htm)
 * [Polar LEO GCR Proton Flux](./HW_02_Solutions/P4A-GCR_H.png)
 * [Polar LEO GCR He Flux](./HW_02_Solutions/P4A-GCR_He.png)
-* [Polar LEO GCR He Flux](./HW_02_Solutions/P4A-GCR_Fe.png)
+* [Polar LEO GCR Fe Flux](./HW_02_Solutions/P4A-GCR_Fe.png)
 * [HEO Orbit file](./HW_02_Solutions/P1B-orbit.html)
 * [HEO Trapped Particle Report](./HW_02_Solutions/P2B-Trapped-particle-fluxes.html)
 * [HEO Trapped Particle Flux](./HW_02_Solutions/P2B-protonfluxp_spec.png)
@@ -135,5 +135,5 @@ _Raw outputs for all models are located in_ [HW_02_Solutions](./HW_02_Solutions/
 * [HEO GCR Particle Report](./HW_02_Solutions/P4B-GCR.htm)
 * [HEO GCR Proton Flux](./HW_02_Solutions/P4B-GCR_H.png)
 * [HEO GCR He Flux](./HW_02_Solutions/P4B-GCR_He.png)
-* [HEO GCR He Flux](./HW_02_Solutions/P4B-GCR_Fe.png)
+* [HEO GCR Fe Flux](./HW_02_Solutions/P4B-GCR_Fe.png)
 </small>
