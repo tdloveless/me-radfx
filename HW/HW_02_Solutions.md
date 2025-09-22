@@ -49,9 +49,9 @@ IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 	 * Trapped proton flux spectrum: ![Trapped proton flux spectrum (solar min)](./HW_02_Solutions/P2A-protonfluxp_spec.png)  -->
 
 ### 2B. Solar Radiation Environment:
-||Polar LEO|HEO|
-|--|--|--|
-|World map of the 200 MeV solar proton attenuation factor|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3A-proton_sepflare_map-200MeV.png)|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3B-proton_sepflare_map-200MeV.png)|
+||Starlink|Polar LEO|HEO|
+|--|--|--|--|
+|World map of the 200 MeV solar proton attenuation factor|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3ex-proton_sepflare_map-200MeV.png)|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3A-proton_sepflare_map-200MeV.png)|![World map of the 200 MeV solar proton attenuation factor](./HW_02_Solutions/P3B-proton_sepflare_map-200MeV.png)|
 
 * Solar proton integral flux spectrum (worst day): ![Solar proton flux spectrum (worst day)](./solar_proton_integral_flux_loglog.png)
 * Solar heavy-ion integral flux spectrum (worst day): ![Solar HI flux spectrum (worst day)](./solar_hi_integral_flux_loglog.png)
