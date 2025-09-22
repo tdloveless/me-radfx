@@ -33,11 +33,10 @@ IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 |World Map View)|![starlink world map](./HW_02_Solutions/P1ex-orbit_map.png)|![polar leo orbit world map](./HW_02_Solutions/P1A-orbit-worldmap.png)|![heo orbit world map](./HW_02_Solutions/P1B-orbit-worldmap.png)|
 
 ### 2A. Trapped Radiation Environment:
-||Polar LEO|HEO|
-|--|--|--|
-|World map of the trapped proton flux (for >10 MeV)|![polar leo orbit world map](./HW_02_Solutions/P1A-orbit-worldmap.png)|![heo orbit](./HW_02_Solutions/P1B-orbit.png)|
-|World map of the trapped proton flux (for >200 MeV)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2A-proton200MeV-worldmap.png)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2B-proton200MeV-worldmap.png)|
-|World map of the trapped proton flux (for >200 MeV)|![World map of the trapped proton flux (for >10 MeV)](./HW_02_Solutions/P2A-proton10MeV-worldmap.png)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2B-proton10MeV-worldmap.png)|
+||Starlink|Polar LEO|HEO|
+|--|--|--|--|
+|World map of the trapped proton flux (for >200 MeV)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2ex-proton200MeV-worldmap.png)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2A-proton200MeV-worldmap.png)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2B-proton200MeV-worldmap.png)|
+|World map of the trapped proton flux (for >10 MeV)|![World map of the trapped proton flux (for >10 MeV)](./HW_02_Solutions/P2ex-proton10MeV-worldmap.png)|![World map of the trapped proton flux (for >10 MeV)](./HW_02_Solutions/P2A-proton10MeV-worldmap.png)|![World map of the trapped proton flux (for >200 MeV)](./HW_02_Solutions/P2B-proton10MeV-worldmap.png)|
 
 * Trapped proton integral flux spectrum (solar min): ![Trapped proton integral flux spectrum](./trapped_proton_integral_flux_loglog.png)
 
