@@ -68,13 +68,13 @@ IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 >
 >|Starlink|Polar LEO|HEO|
 >|--|--|--|
->|~5x10<sup>1</sup>|~2x10<sup>2</sup>|~10<sup>3</sup>|
+>|~4x10<sup>2</sup>|~2x10<sup>4</sup>|~6x10<sup>4</sup>|
 
 ****200 MeV or Greater (cm<sup>-2</sup> s<sup>-1</sup>)****
 >
 >|Starlink|Polar LEO|HEO|
 >|--|--|--|
->|~5x10<sup>0</sup>|~3x10<sup>1</sup>|~4x10<sup>1</sup>|
+>|~4x10<sup>-1</sup>|~5x10<sup>0</sup>|~2x10<sup>1</sup>|
 
 5. For the life of each of these missions, how does the total fluence of solar protons of 200 MeV or greater to compare to the Starlink LEO mission?  _Provide the expected ratio (fluence of desired mission)/fluence of Starlink LEO._
 
