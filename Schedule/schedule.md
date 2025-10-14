@@ -13,5 +13,10 @@
 |9/18/2025|8|3.2.2 - SEE Facilities Part 2|[3.2:8-41](../Slides/03-Single-Event-Effects/03.2-SEE_Facilities.pdf)||||[3.2 - ME RADFX Lecture 8: SEE Facilities Part 2](https://iu.mediaspace.kaltura.com/media/t/1_kf14lkme)|
 |9/23/2025|9|3.3 - Measuring SEE|[3.3:1-49](../Slides/03-Single-Event-Effects/03.3-Measuring_SEE.pdf)||||[3.3.1 - ME RADFX Lecture 9: Measuring SEE](https://iu.mediaspace.kaltura.com/media/t/1_5zt2mewk)|
 |9/25/2025|10|3.4 - Modeling SETs in SPICE|[LTSpiceIV_Files](../HW/HW03_supporting_material/)|[HW 3](../HW/HW03-SEE.pdf)|||[3.3.1 - ME RADFX Lecture 10: Modeling SETs in SPICE](https://iu.mediaspace.kaltura.com/media/t/1_rbwsixis)|
-|9/30/2025|11|4.0.1 - CREME96 Part 1|[4.0](../Slides/04-CREME96/04.0-CREME96.pdf)||||[4.0.1 - CREME96](https://iu.mediaspace.kaltura.com/media/t/1_mnu3lezm)|
-|10/2/2025|12|4.0.2 - CREME96 Part 2 + Activity|[4.1](../Slides/04-CREME96/04.1-CREME96_Activity.pdf)||||[4.0.2 - CREME96](https://iu.mediaspace.kaltura.com/media/t/1_hvgwf7cm)|
+|9/30/2025|11|4.0.1 - CRÉME96 Part 1|[4.0](../Slides/04-CREME96/04.0-CREME96.pdf)||||[4.0.1 - CREME96](https://iu.mediaspace.kaltura.com/media/t/1_mnu3lezm)|
+|10/2/2025|12|4.0.2 - CRÉME96 Part 2 + Activity|[4.1](../Slides/04-CREME96/04.1-CREME96_Activity.pdf)|||Quiz 2|[4.0.2 - CREME96](https://iu.mediaspace.kaltura.com/media/t/1_hvgwf7cm)|
+|10/7/2025|-|No class||||[HW 3](../HW/HW03-SEE.pdf)||
+|10/9/2025|13|4.1 - Tutorial ([NSRL Stack-Up Calculator](https://www.bnl.gov/nsrl/stackup/) and [CRÉME96](https://creme.isde.vanderbilt.edu/))|[4.1](../Slides/04-CREME96/04.1-CREME96_Activity.pdf)|[HW 4](../HW/HW_04.md)|||[4.1 - Tutorial: NSRL Stack-Up and CRÉME96](https://iu.mediaspace.kaltura.com/media/t/1_ys0mx18h)|
+|10/14/2025|14|5.0.1 - Total-Ionizing Dose Part 1|5.0.1|||Quiz 3||
+|10/16/2025|15|5.0.2 - Total-Ionizing Dose Part 2|5.0.2|||[HW 4](../HW/HW_04.md)||
+|10/21/2025||Midterm Exam||||||
