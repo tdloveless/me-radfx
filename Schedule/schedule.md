@@ -17,6 +17,6 @@
 |10/2/2025|12|4.0.2 - CRÉME96 Part 2 + Activity|[4.1](../Slides/04-CREME96/04.1-CREME96_Activity.pdf)|||Quiz 2|[4.0.2 - CREME96](https://iu.mediaspace.kaltura.com/media/t/1_hvgwf7cm)|
 |10/7/2025|-|No class||||[HW 3](../HW/HW03-SEE.pdf)||
 |10/9/2025|13|4.1 - Tutorial ([NSRL Stack-Up Calculator](https://www.bnl.gov/nsrl/stackup/) and [CRÉME96](https://creme.isde.vanderbilt.edu/))|[4.1](../Slides/04-CREME96/04.1-CREME96_Activity.pdf)|[HW 4](../HW/HW_04.md)|[NSRL Stack-Up Calculator](https://www.bnl.gov/nsrl/stackup/)||[4.1 - Tutorial: NSRL Stack-Up and CRÉME96](https://iu.mediaspace.kaltura.com/media/t/1_ys0mx18h)|
-|10/14/2025|14|5.0.1 - Total-Ionizing Dose Part 1|[5.0.1](../Slides/05-TID/5.0-TID.pdf)|||Quiz 3||
-|10/16/2025|15|5.0.2 - Total-Ionizing Dose Part 2|5.0.2|||[HW 4](../HW/HW_04.md)||
+|10/14/2025|14|5.0.1 - Total-Ionizing Dose Part 1|[5.0: 1-27](../Slides/05-TID/5.0-TID.pdf)||||[5.0.1 - TID Part 1](https://iu.mediaspace.kaltura.com/media/t/1_v79437ha)|
+|10/16/2025|15|5.0.2 - Total-Ionizing Dose Part 2|[5.0: 28-59](../Slides/05-TID/5.0-TID.pdf)|||[HW 4](../HW/HW_04.md)||
 |10/21/2025||Midterm Exam||||||
