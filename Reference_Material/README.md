@@ -20,3 +20,11 @@ The main contents are:
 		- Planetary environment
 		- other
 	- [Documentation](https://www.spenvis.oma.be/help/system/toc.html)
+* [CRÉME96](https://creme.isde.vanderbilt.edu/)
+	- CRÉME96 is a state-of-the-art tool for SEE rate prediction.
+* [NSRL Stack-Up Calculator](https://www.bnl.gov/nsrl/stackup/)
+	- Excel-based calculator database so that users can explore how the beam energy, range of ions, and instantaneous energy transfer will behave based on a multi-layer transport approximation. 
+	- Energy, range, dE/dx, and straggling information are available for all ions at NSRL and more across a selection of materials traditionally used by the heavy ion radiation field. 
+	- Data are extracted from the [Stopping and Range of Ions in Matter (SRIM/TRIM) free software by J. F. Ziegler](http://www.srim.org/)
+* [NSREC 1993 Short Course](./NSREC_SC_Y1993.pdf)
+	- Part III: SEU Modeling and Prediction Techniques	- Dr. Lloyd Massengill, Vanderbilt University
