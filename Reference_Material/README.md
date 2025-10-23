@@ -27,5 +27,9 @@ The main contents are:
 	- Energy, range, dE/dx, and straggling information are available for all ions at NSRL and more across a selection of materials traditionally used by the heavy ion radiation field. 
 	- Data are extracted from the [Stopping and Range of Ions in Matter (SRIM/TRIM) free software by J. F. Ziegler](http://www.srim.org/)
 * [NSREC 1993 Short Course](./NSREC_SC_Y1993.pdf)
-	- Part III: SEU Modeling and Prediction Techniques	- Dr. Lloyd Massengill, Vanderbilt University
+	- Part III: SEU Modeling and Prediction Technique
+	- Dr. Lloyd Massengill, Vanderbilt University
 * [H. J. Barnaby, "Total-Ionizing-Dose Effects in Modern CMOS Technologies," in IEEE Transactions on Nuclear Science, vol. 53, no. 6, pp. 3103-3121, Dec. 2006, doi: 10.1109/TNS.2006.885952](../Reference_Material/Total-Ionizing-Dose_Effects_in_Modern_CMOS_Technologies.pdf)
+* [NSREC 2021 Short Course](./NSREC_SC_Y2021.pdf)
+	- Part II: Hardening Techniques for Analog and Mixed-Signal Circuits
+	- Dr. Daniel Loveless, University of TN at Chattanooga

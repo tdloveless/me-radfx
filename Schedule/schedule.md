@@ -18,6 +18,8 @@
 |10/7/2025|-|No class||||[HW 3](../HW/HW03-SEE.pdf)||
 |10/9/2025|13|4.1 - Tutorial ([NSRL Stack-Up Calculator](https://www.bnl.gov/nsrl/stackup/) and [CRÉME96](https://creme.isde.vanderbilt.edu/))|[4.1](../Slides/04-CREME96/04.1-CREME96_Activity.pdf)|[HW 4](../HW/HW_04.md)|[NSRL Stack-Up Calculator](https://www.bnl.gov/nsrl/stackup/)||[4.1 - Tutorial: NSRL Stack-Up and CRÉME96](https://iu.mediaspace.kaltura.com/media/t/1_ys0mx18h)|
 |10/14/2025|14|5.1 - Total-Ionizing Dose Part 1|[5.0: 1-27](../Slides/05-TID/5.0-TID.pdf)||[H. J. Barnaby, "Total-Ionizing-Dose Effects in Modern CMOS Technologies," in IEEE Transactions on Nuclear Science, vol. 53, no. 6, pp. 3103-3121, Dec. 2006, doi: 10.1109/TNS.2006.885952](../Reference_Material/Total-Ionizing-Dose_Effects_in_Modern_CMOS_Technologies.pdf)||[5.1 - TID Part 1](https://iu.mediaspace.kaltura.com/media/t/1_v79437ha)|
-|10/16/2025|15|5.2 - Total-Ionizing Dose Part 2|[5.0: 28-59](../Slides/05-TID/5.0-TID.pdf)|||[HW 4](../HW/HW_04.md)|[5.2 - TID Part 2](https://iu.mediaspace.kaltura.com/media/t/1_addsb30m/354546882)|
-|10/21/2025||Midterm Exam||||||
-|10/23/2025|16|6.1 - Mitigation Part 1||||||
+|10/16/2025|15|5.2 - Total-Ionizing Dose Part 2|[5.0: 28-59](../Slides/05-TID/5.0-TID.pdf)||[TI Handbook](../Reference_Material/radeffects_handbook_TI.pdf): Chp. 5, pg. 63-67|[HW 4](../HW/HW_04.md)|[5.2 - TID Part 2](https://iu.mediaspace.kaltura.com/media/t/1_addsb30m/354546882)|
+|10/21/2025||Midterm Exam
+|10/23/2025|16|6.1 - Mitigation Part 1|||[TI Handbook](../Reference_Material/radeffects_handbook_TI.pdf): Chp. 6, pg. 75-87|||
+|10/28/2025|17|6.2 - Mitigation Part 2|||[NSREC Short Course 2021 Part II](../Reference_Material/NSREC_SC_Y2021.pdf)|||
+
