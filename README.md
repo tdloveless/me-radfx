@@ -26,4 +26,5 @@ The main contents are:
 * [4.0.1 - ME RADFX Lecture 11: CREME96 Part 1](https://iu.mediaspace.kaltura.com/media/t/1_mnu3lezm)
 * [4.0.2 - ME RADFX Lecture 12: CREME96 Part 2](https://iu.mediaspace.kaltura.com/media/t/1_hvgwf7cm)
 * [4.1 - ME RADFX Lecture 13/Tutorial: NSRL Stack-Up and CRÉME96](https://iu.mediaspace.kaltura.com/media/t/1_ys0mx18h)
-* [5.0.1 - ME RADFX Lecture 14: TID Part 1](https://iu.mediaspace.kaltura.com/media/t/1_v79437ha)
+* [5.1 - ME RADFX Lecture 14: TID Part 1](https://iu.mediaspace.kaltura.com/media/t/1_v79437ha)
+* [5.2 - ME RADFX Lecture 15: TID Part 2](https://iu.mediaspace.kaltura.com/media/t/1_addsb30m/354546882)
