@@ -28,3 +28,6 @@ The main contents are:
 * [4.1 - ME RADFX Lecture 13/Tutorial: NSRL Stack-Up and CRÉME96](https://iu.mediaspace.kaltura.com/media/t/1_ys0mx18h)
 * [5.1 - ME RADFX Lecture 14: TID Part 1](https://iu.mediaspace.kaltura.com/media/t/1_v79437ha)
 * [5.2 - ME RADFX Lecture 15: TID Part 2](https://iu.mediaspace.kaltura.com/media/t/1_addsb30m/354546882)
+* [6.1 - ME RADFX Lecture 16: Mitigation Part 1](https://iu.mediaspace.kaltura.com/media/t/1_1lnjuhli)
+* [6.2 - ME RADFX Lecture 17: Mitigation Part 2](https://iu.mediaspace.kaltura.com/media/t/1_7rvj7l8m)
+* [6.3 - ME RADFX Lecture 18/Tutorial: Simulating Circuit Mitigation Strategies](https://iu.mediaspace.kaltura.com/media/t/1_fnbrhdx7)
