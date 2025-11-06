@@ -31,3 +31,4 @@ The main contents are:
 * [6.1 - ME RADFX Lecture 16: Mitigation Part 1](https://iu.mediaspace.kaltura.com/media/t/1_1lnjuhli)
 * [6.2 - ME RADFX Lecture 17: Mitigation Part 2](https://iu.mediaspace.kaltura.com/media/t/1_7rvj7l8m)
 * [6.3 - ME RADFX Lecture 18/Tutorial: Simulating Circuit Mitigation Strategies](https://iu.mediaspace.kaltura.com/media/t/1_fnbrhdx7)
+* [6.4 - ME RADFX Lecture 19: Intro to HW 5](https://iu.mediaspace.kaltura.com/media/t/1_goupcpyb)
