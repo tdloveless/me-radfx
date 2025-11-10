@@ -24,5 +24,5 @@
 |10/28/2025|17|6.2 - Mitigation Part 2|[6.1: 23-51](../Slides/06-Mitigation/06.1-Mitigation.pdf)||[NSREC Short Course 2021 Part II](../Reference_Material/NSREC_SC_Y2021.pdf)||[6.2 - Mitigation Part 2](https://iu.mediaspace.kaltura.com/media/t/1_7rvj7l8m)|
 |10/30/2025|18|6.3 - Tutorial: Simulation of Mitigation Strategies|[6.1: 52](../Slides/06-Mitigation/06.1-Mitigation.pdf)||||[6.3 - Tutorial](https://iu.mediaspace.kaltura.com/media/t/1_fnbrhdx7)|
 |11/4/2025|19|6.4 - Introduction to HW 5|[LTSpiceIV_Files](../HW/HW05_supporting_material/)|[HW 5](../HW/HW05-RH.pdf)|||[6.4 - Intro to HW 5](https://iu.mediaspace.kaltura.com/media/t/1_goupcpyb)|
-|11/6/2025|20|TBD||||Quiz 3||
+|11/6/2025|20|TBD||[E599 Review Article](../HW/Graduate_review_paper_assignment.md)||Quiz 3||
 |11/11/2025|21|TBD||||[HW 5](../HW/HW05-RH.pdf)||
