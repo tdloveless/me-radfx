@@ -33,3 +33,5 @@ The main contents are:
 * [NSREC 2021 Short Course](./NSREC_SC_Y2021.pdf)
 	- Part II: Hardening Techniques for Analog and Mixed-Signal Circuits
 	- Dr. Daniel Loveless, University of TN at Chattanooga
+* [Wallmark and Marcus, 1962](./Wallmark_1962.pdf)
+	- J. T. Wallmark and S. M. Marcus, "Minimum Size and Maximum Packing Density of Nonredundant Semiconductor Devices," in Proceedings of the IRE, vol. 50, no. 3, pp. 286-298, March 1962, doi: [10.1109/JRPROC.1962.288321](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4066643)
