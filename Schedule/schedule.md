@@ -27,3 +27,9 @@
 |11/6/2025|20|7.0: Project Introduction||[E599 Review Article](../HW/Graduate_review_paper_assignment.md)||Quiz 3|[7.0 - Project Introductions](https://iu.mediaspace.kaltura.com/media/t/1_5m828oxm)|
 |11/11/2025|21|7.1: Journal Club|[7.1](../Slides/07-JournalClub/7.1.pdf)|HW 6|[Wallmark & Marcus, Proc. of IRE, 1962](../Reference_Material/Wallmark_1962.pdf)|[HW 5](../HW/HW05-RH.pdf)<br>[HW 6](../HW/HW_06.md)|[7.1 - Journal Club: Wallmark and Marcus, 1962](https://iu.mediaspace.kaltura.com/media/t/1_kvym3yy6)|
 |11/13/2025|22|Project Work Day||||||
+|11/18/2025|23|Journal Clubs 2 & 3||||||
+|11/20/2025|24|Journal Clubs 4 & 5||||||
+|12/2/2025|25|Journal Clubs 6 & 7||||||
+|12/4/2025|26|Journal Clubs 8 & 9||||||
+|12/9/2025|27|Journal Clubs 10 & 11||||||
+|12/11/2025|28|Journal Clubs 12||||||
