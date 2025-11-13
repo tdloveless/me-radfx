@@ -30,6 +30,6 @@
 |11/18/2025|23|Journal Clubs 2 & 3||||||
 |11/20/2025|24|Journal Clubs 4 & 5||||||
 |12/2/2025|25|Journal Clubs 6 & 7||||||
-|12/4/2025|26|Journal Clubs 8 & 9||||||
+|12/4/2025|26|Journal Clubs 8 & 9|||||Grad Review Paper|
 |12/9/2025|27|Journal Clubs 10 & 11||||||
 |12/11/2025|28|Journal Clubs 12||||||
