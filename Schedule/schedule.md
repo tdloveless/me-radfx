@@ -25,5 +25,5 @@
 |10/30/2025|18|6.3 - Tutorial: Simulation of Mitigation Strategies|[6.1: 52](../Slides/06-Mitigation/06.1-Mitigation.pdf)||||[6.3 - Tutorial](https://iu.mediaspace.kaltura.com/media/t/1_fnbrhdx7)|
 |11/4/2025|19|6.4 - Introduction to HW 5|[LTSpiceIV_Files](../HW/HW05_supporting_material/)|[HW 5](../HW/HW05-RH.pdf)|||[6.4 - Intro to HW 5](https://iu.mediaspace.kaltura.com/media/t/1_goupcpyb)|
 |11/6/2025|20|7.0: Project Introduction||[E599 Review Article](../HW/Graduate_review_paper_assignment.md)||Quiz 3|[7.0 - Project Introductions](https://iu.mediaspace.kaltura.com/media/t/1_5m828oxm)|
-|11/11/2025|21|7.1: Journal Club|[7.1](../Slides/07-JournalClub/7.1.pdf)|HW 6|[Wallmark & Marcus, Proc. of IRE, 1962](../Reference_Material/Wallmark_1962.pdf)|[HW 5](../HW/HW05-RH.pdf)|[7.1 - Journal Club: Wallmark and Marcus, 1962](https://iu.mediaspace.kaltura.com/media/t/1_kvym3yy6)|
+|11/11/2025|21|7.1: Journal Club|[7.1](../Slides/07-JournalClub/7.1.pdf)|HW 6|[Wallmark & Marcus, Proc. of IRE, 1962](../Reference_Material/Wallmark_1962.pdf)|[HW 5](../HW/HW05-RH.pdf)<br>[HW 6](../HW/HW_06.md)|[7.1 - Journal Club: Wallmark and Marcus, 1962](https://iu.mediaspace.kaltura.com/media/t/1_kvym3yy6)|
 |11/13/2025|22|Project Work Day||||||

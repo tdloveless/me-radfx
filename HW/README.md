@@ -21,6 +21,8 @@ The main contents are:
 	- [HW 5](./HW05-RH.pdf)
 		- HW 5: Mitigation of SEE
 		- This assignment uses [LTPICE IV](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) and [Supporting Material](./HW05_supporting_material/)
+	- [HW 6](./HW_06.md)
+		- HW 6: Journal Club Paper
 
 * Quizzes:
 	- [Quiz 1](./Quiz/1 - Introduction Concept Check.pdf)
