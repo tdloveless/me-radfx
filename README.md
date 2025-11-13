@@ -32,3 +32,5 @@ The main contents are:
 * [6.2 - ME RADFX Lecture 17: Mitigation Part 2](https://iu.mediaspace.kaltura.com/media/t/1_7rvj7l8m)
 * [6.3 - ME RADFX Lecture 18/Tutorial: Simulating Circuit Mitigation Strategies](https://iu.mediaspace.kaltura.com/media/t/1_fnbrhdx7)
 * [6.4 - ME RADFX Lecture 19: Intro to HW 5](https://iu.mediaspace.kaltura.com/media/t/1_goupcpyb)
+* [7.0 - Project Introductions](https://iu.mediaspace.kaltura.com/media/t/1_5m828oxm)
+* [7.1 - Journal Club: Wallmark and Marcus, 1962](https://iu.mediaspace.kaltura.com/media/t/1_kvym3yy6)
