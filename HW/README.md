@@ -23,8 +23,10 @@ The main contents are:
 		- This assignment uses [LTPICE IV](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) and [Supporting Material](./HW05_supporting_material/)
 	- [HW 6](./HW_06.md)
 		- HW 6: Journal Club Paper
+		- [Journal Club Evaluation Sheet](./journal_club_eval_update.pdf)
 
 * Quizzes:
 	- [Quiz 1](./Quiz/1 - Introduction Concept Check.pdf)
 	- [Quiz 2](./Quiz/2 - SEE.pdf)
 	- [Quiz 3](./Quiz/3 - SEE.pdf)
+
