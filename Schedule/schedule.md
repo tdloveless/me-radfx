@@ -27,9 +27,9 @@
 |11/6/2025|20|7.0: Project Introduction||[E599 Review Article](../HW/Graduate_review_paper_assignment.md)||Quiz 3|[7.0 - Project Introductions](https://iu.mediaspace.kaltura.com/media/t/1_5m828oxm)|
 |11/11/2025|21|7.1: Journal Club|[7.1](../Slides/07-JournalClub/7.1.pdf)|HW 6|[Wallmark & Marcus, Proc. of IRE, 1962](../Reference_Material/Wallmark_1962.pdf)|[HW 5](../HW/HW05-RH.pdf)<br>[HW 6](../HW/HW_06.md)|[7.1 - Journal Club: Wallmark and Marcus, 1962](https://iu.mediaspace.kaltura.com/media/t/1_kvym3yy6)|
 |11/13/2025|22|Project Work Day||||||
-|11/18/2025|23|Journal Clubs 2 & 3||||||
-|11/20/2025|24|Journal Clubs 4 & 5||||||
-|12/2/2025|25|Journal Clubs 6 & 7||||||
-|12/4/2025|26|Journal Clubs 8 & 9|||||Grad Review Paper|
-|12/9/2025|27|Journal Clubs 10 & 11||||||
-|12/11/2025|28|Journal Clubs 12||||||
+|11/18/2025|23|Project Work Day||||||
+|11/20/2025|24|7.2: Journal Club, Amac and Merry|||[R. García Alía et al., "The HEARTS EU Project and Its Initial Results on Fragmented High-Energy Heavy-Ion Single-Event Effects Testing," in IEEE Transactions on Nuclear Science, vol. 72, no. 4, pp. 1040-1049, April 2025, doi: 10.1109/TNS.2025.3530502](https://ieeexplore.ieee.org/document/10843774)|JC Eval||
+|12/2/2025|25|7.3: Journal Club, Blacconiere and Robertson|||[S. Azimi, C. De Sio and L. Sterpone, "A Placement-Oriented Mitigation Technique for Single Event Effect in Monolithic 3D IC," 2022 18th International Conference on Synthesis, Modeling, Analysis and Simulation Methods and Applications to Circuit Design (SMACD), Villasimius, Italy, 2022, pp. 1-4, doi: 10.1109/SMACD55068.2022.9816235](https://ieeexplore.ieee.org/document/9816235)|JC Eval||
+|12/4/2025|26|7.4: Journal Club, Adams, Helou, and Medina|||TBD|Grad Review Paper<br>JC Eval||
+|12/9/2025|27|7.5: Journal Club, Dennerline and Glass|||[S. Peracchi et al., "Radiation Shielding Evaluation of Spacecraft Walls Against Heavy Ions Using Microdosimetry," in IEEE Transactions on Nuclear Science, vol. 68, no. 5, pp. 897-905, May 2021, doi: 10.1109/TNS.2020.3032946](https://ieeexplore.ieee.org/document/9235502)|JC Eval||
+|12/11/2025|28|7.5: Journal Club, TBD|||TBD|JC Eval||
