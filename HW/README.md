@@ -24,6 +24,9 @@ The main contents are:
 	- [HW 6](./HW_06.md)
 		- HW 6: Journal Club Paper
 		- [Journal Club Evaluation Sheet](./journal_club_eval_update.pdf)
+	- [Project](./Projects/project_rubric.pdf)
+		- Project description, requirements, and rubric
+		- [Poster template](./Projects/Poster_Template_F25.pptx)
 
 * Quizzes:
 	- [Quiz 1](./Quiz/1 - Introduction Concept Check.pdf)
