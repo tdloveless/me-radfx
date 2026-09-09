@@ -12,10 +12,11 @@ The main contents are:
 	- [HW 2](./HW_02.md)
 		- HW 2: Modeling the Natural Space Radiation Environment
 		- This assignment uses [SPENVIS](https://www.spenvis.oma.be)
-<!--
+
 	- [HW 3](./HW03-SEE.pdf)
 		- HW 3: Simulation of SEE
-		- This assignment uses [LTPICE IV](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) and [Supporting Material](./HW03_supporting_material/)
+		- This assignment uses [LTPICE IV](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) and Supporting Material
+<!--
 	- [HW 4](./HW_04.md)
 		- HW 4: Error Rate Modeling with CRÉME96
 		- This assignment uses [SRIM](http://www.srim.org/) and [CRÉME96](https://creme.isde.vanderbilt.edu/)
