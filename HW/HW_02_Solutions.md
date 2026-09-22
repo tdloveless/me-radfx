@@ -48,7 +48,7 @@ IUB ENGR-E-399/599 ME Radiation Effects and Reliability
 * Mission average solar heavy-ion fluence spectrum: ![Solar HI fluence spectrum](./HW_02_Solutions/solar_hi_integral_fluence_loglog.png)
 
 #### GCR Radiation Environment:
-* GCR spectra: ![GCR proton, He, and Fe flux spectrum](./gcr_hi_integral_flux_loglog.png)
+* GCR spectra: ![GCR proton, He, and Fe flux spectrum](./HW_02_Solutions/gcr_hi_integral_flux_loglog.png)
 
 3. Name three differences in each of these orbits, as compared to the in-class example of a notional Starlink LEO orbit.
 >* LEO (Polar):
