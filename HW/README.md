@@ -15,7 +15,7 @@ The main contents are:
 		- Python-based plotting tools located in [HW_02_Resources](./HW_02_Resources/)
 	- [HW 3](./HW03-SEE.pdf)
 		- HW 3: Simulation of SEE
-		- This assignment uses [LTPICE IV](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) and Supporting Material
+		- This assignment uses [LTPICE IV](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) and [Supporting Material](./HW_03_Resources/)
 <!--
 	- [HW 4](./HW_04.md)
 		- HW 4: Error Rate Modeling with CRÉME96
