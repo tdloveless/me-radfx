@@ -10,7 +10,17 @@
 |9/8/2026|5|<br>2.3 - Modeling the Natural Space Environment|[2:32-51](../Slides/02-Natural_Space_Environment/02-Natural_Space_Radiation_Environment.pdf)<br>[2A](../Slides/02-Natural_Space_Environment/02A-Natural_Space_Radiation_Environment_Activity.pdf)||[SPENVIS](https://www.spenvis.oma.be/intro.php)||[2.3 - ME RADFX Lecture 5: Modeling the Natural Space Radiation Environment Using SPENVIS](https://iu.mediaspace.kaltura.com/media/t/1_qhr69qxk)|
 |9/10/2026|6|3.1 - Basic Mechanisms of Single-Event Effects|[3.1](../Slides/03-Single-Event-Effects/03.0-SEE_General_Principles.pdf)|[HW 3](../HW/HW_03.pdf)|[TI Handbook](../Reference_Material/radeffects_handbook_TI.pdf): Chp. 2, pg. 25-37|[HW 2 (Due on 9/11)](../HW/HW_02.md)||
 |9/15/2026|7|3.2 - TCAD Examples<br />3.3.1 - SEE Facilities Part 1|[3.2](../Slides/03-Single-Event-Effects/03.1-SEE_TCAD_Modeling_Examples.pdf)<br />[3.3:1-7](../Slides/03-Single-Event-Effects/03.2-SEE_Facilities.pdf)||[TI Handbook](../Reference_Material/radeffects_handbook_TI.pdf): Chp. 4, pg. 47-57|Quiz 2||
-|9/17/2026|8|3.3.2 - SEE Facilities Part 2|[3.3:8-41](../Slides/03-Single-Event-Effects/03.2-SEE_Facilities.pdf)|||[HW 3 (Due on 9/18)](../HW/HW_03.pdf)||
+|9/17/2026|8|3.3.2 - SEE Facilities Part 2|[3.3:8-41](../Slides/03-Single-Event-Effects/03.2-SEE_Facilities.pdf)|||||
+|9/22/2026|9|3.4.1 - Measuring SEE Part 1|[3.4:1-21](../Slides/03.3-Measuring_SEE.pdf)|||||
+|9/24/2026|10|3.4.2 - Measuring SEE Part 2|[3.4:22-42](../Slides/03.3-Measuring_SEE.pdf)|||||
+|9/29/2026|11|4.0 - CRÉME96|[4.0](../Slides/04-CREME96/04.0-CREME96.pdf)||[NSRL StackUp Tool](https://www.bnl.gov/nsrl/stackup/)||[CRÉME96 Part 1](https://iu.mediaspace.kaltura.com/media/t/1_mnu3lezm/354546882)<br><br>[Tutorial: NSRL Stackup Tool](https://iu.mediaspace.kaltura.com/media/t/1_ys0mx18h/354546882)|
+|10/1/2026|12|4.1 - CRÉME 96 Activity|[4.1](../Slides/04-CREME96/04.1-CREME96_Activity.pdf)|[HW 4 (Not Collected)]((../Slides/04-CREME96/04.1-CREME96_Activity.pdf))||[HW 4: CRÉME96 Activity (Not Collected)]((../Slides/04-CREME96/04.1-CREME96_Activity.pdf))|[CRÉME96 Part 2](https://iu.mediaspace.kaltura.com/media/t/1_hvgwf7cm/354546882)|
+|10/6/2026|13|LTSpice IV Tutorial Part 1: Custom Models, DC and TRANsient Simulations|N/A||||[LTSpice IV Tutorial Part 1](https://iu.mediaspace.kaltura.com/media/t/1_777o302k)|
+|10/8/2026|14|LTSpice IV Tutorial Part 2: Combinational and Sequantial Logic, SET Simulations|N/A|||Quiz 3||
+|10/13/2026|15|||||||
+|10/15/2026|16|||||[HW 3](../HW/HW_03.pdf)
+|10/22/2026|17|||||MIDTERM EXAM||
+
 
 <!--
 |9/11/2025|6|3.0.0 - Basic Mechanisms of Single-Event Effects Part 1|[3.0:1-37](../Slides/03-Single-Event-Effects/03.0-SEE_General_Principles.pdf)||[TI Handbook](../Reference_Material/radeffects_handbook_TI.pdf): Chp. 2, pg. 25-37 |[HW 2](../HW/HW_02.md)|[3.0 - ME RADFX Lecture 6: SEE Part 1 (Background, Charge Generation, Charge Collection)](https://iu.mediaspace.kaltura.com/media/t/1_0rnl6ii7)|
