@@ -16,7 +16,7 @@
 |9/29/2026|11|4.0 - CRÉME96|[4.0](../Slides/04-CREME96/04.0-CREME96.pdf)||[NSRL StackUp Tool](https://www.bnl.gov/nsrl/stackup/)||[CRÉME96 Part 1](https://iu.mediaspace.kaltura.com/media/t/1_mnu3lezm/354546882)<br><br>[Tutorial: NSRL Stackup Tool](https://iu.mediaspace.kaltura.com/media/t/1_ys0mx18h/354546882)|
 |10/1/2026|12|4.1 - CRÉME 96 Activity|[4.1](../Slides/04-CREME96/04.1-CREME96_Activity.pdf)|[HW 4 (Not Collected)]((../Slides/04-CREME96/04.1-CREME96_Activity.pdf))||[HW 4: CRÉME96 Activity (Not Collected)]((../Slides/04-CREME96/04.1-CREME96_Activity.pdf))|[CRÉME96 Part 2](https://iu.mediaspace.kaltura.com/media/t/1_hvgwf7cm/354546882)|
 |10/6/2026|13|LTSpice IV Tutorial Part 1: Custom Models, DC and TRANsient Simulations|N/A||||[LTSpice IV Tutorial Part 1](https://iu.mediaspace.kaltura.com/media/t/1_777o302k)|
-|10/8/2026|14|LTSpice IV Tutorial Part 2: Combinational and Sequantial Logic, SET Simulations|N/A|||Quiz 3||
+|10/8/2026|14|LTSpice IV Tutorial Part 2: Combinational and Sequantial Logic, SET Simulations|N/A|||Quiz 3|[LTSpice IV Tutorial Part 2](https://iu.mediaspace.kaltura.com/media/t/1_10shrlea/354546882)|
 |10/13/2026|15|||||||
 |10/15/2026|16|||||[HW 3](../HW/HW_03.pdf)
 |10/22/2026|17|||||MIDTERM EXAM||
