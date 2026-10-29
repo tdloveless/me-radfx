@@ -16,10 +16,16 @@ The main contents are:
 	- [HW 3](./HW03-SEE.pdf)
 		- HW 3: Simulation of SEE
 		- This assignment uses [LTPICE IV](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) and [Supporting Material](./HW_03_Resources/)
-<!--
 	- [HW 4](./HW_04.md)
-		- HW 4: Error Rate Modeling with CRÉME96
+		- HW 4: Error Rate Modeling with CRÉME96 (not collected)
 		- This assignment uses [SRIM](http://www.srim.org/) and [CRÉME96](https://creme.isde.vanderbilt.edu/)
+	- [HW GRP (Graduate/599 Review Paper](./HW_GRP.md)
+		- HW GRP: Graduate Student (599) Review Paper
+		- The goal of this assignment is to write a literature review paper (of approximately four pages using an IEEE standard template) on a topic in Microelectronics Radiation Effects or Reliability. This assignment will allow you to critically and deeply think about a topic of your choosing that may be related to your project.
+ 
+
+
+<!--
 	- [HW 5](./HW05-RH.pdf)
 		- HW 5: Mitigation of SEE
 		- This assignment uses [LTPICE IV](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) and [Supporting Material](./HW05_supporting_material/)
