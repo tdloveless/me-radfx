@@ -17,9 +17,13 @@
 |10/1/2026|12|4.1 - CRÉME 96 Activity|[4.1](../Slides/04-CREME96/04.1-CREME96_Activity.pdf)|[HW 4 (Not Collected)]((../Slides/04-CREME96/04.1-CREME96_Activity.pdf))||[HW 4: CRÉME96 Activity (Not Collected)]((../Slides/04-CREME96/04.1-CREME96_Activity.pdf))|[CRÉME96 Part 2](https://iu.mediaspace.kaltura.com/media/t/1_hvgwf7cm/354546882)|
 |10/6/2026|13|LTSpice IV Tutorial Part 1: Custom Models, DC and TRANsient Simulations|N/A||||[LTSpice IV Tutorial Part 1](https://iu.mediaspace.kaltura.com/media/t/1_777o302k)|
 |10/8/2026|14|LTSpice IV Tutorial Part 2: Combinational and Sequantial Logic, SET Simulations|N/A|||Quiz 3|[LTSpice IV Tutorial Part 2](https://iu.mediaspace.kaltura.com/media/t/1_10shrlea/354546882)|
-|10/13/2026|15|||||||
-|10/15/2026|16|||||[HW 3](../HW/HW_03.pdf)
-|10/22/2026|17|||||MIDTERM EXAM||
+|10/13/2026|15|TID Part 1|[5.0:1-17](../Slides/05-TID/5.0-TID.pdf)||||[TID Part 1](https://iu.mediaspace.kaltura.com/media/t/1_3yrhw23x)|
+|10/15/2026|16|TID Part 2|[5.0:18-38](../Slides/05-TID/5.0-TID.pdf)|||[HW 3](../HW/HW_03.pdf)|[TID Part 2](https://iu.mediaspace.kaltura.com/media/t/1_d45vcomv)|
+|10/20/2026|17|No Class - Midterm Exam Released|N/A|MIDTERM EXAM |||N/A|
+|10/22/2026|18|Literature Review|N/A|||MIDTERM EXAM (Oct. 23)|[Literature Review](https://iu.mediaspace.kaltura.com/media/t/1_0uz4ym6b)|
+|10/27/2026|19|TID Part 3 <br> Mitigation Part 1|[5.0:46-59](../Slides/05-TID/5.0-TID.pdf)<br />[6.0:1-8](../Slides/06-Mitigation/06.1-Mitigation.pdf)||||[TID Part 3 + Mitigation Part 1](https://iu.mediaspace.kaltura.com/media/t/1_4poqwa1b)|
+|10/29/2026|20|Mitigation Part 1 (2025)<br />Mitigation Part 2 (2025)|[6.1: 1-22](../Slides/06-Mitigation/06.1-Mitigation.pdf)<br />[6.1: 23-51](../Slides/06-Mitigation/06.1-Mitigation.pdf)||[TI Handbook](../Reference_Material/radeffects_handbook_TI.pdf): Chp. 6, pg. 75-87<br />[NSREC Short Course 2021 Part II](../Reference_Material/NSREC_SC_Y2021.pdf)||[6.1 - Mitigation Part 1](https://iu.mediaspace.kaltura.com/media/t/1_1lnjuhli)<br />[6.2 - Mitigation Part 2](https://iu.mediaspace.kaltura.com/media/t/1_7rvj7l8m)||
+
 
 
 <!--
