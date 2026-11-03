@@ -23,6 +23,7 @@
 |10/22/2026|18|Literature Review|N/A|||MIDTERM EXAM (Oct. 23)|[Literature Review](https://iu.mediaspace.kaltura.com/media/t/1_0uz4ym6b)|
 |10/27/2026|19|TID Part 3 <br> Mitigation Part 1|[5.0:46-59](../Slides/05-TID/5.0-TID.pdf)<br />[6.0:1-8](../Slides/06-Mitigation/06.1-Mitigation.pdf)||||[TID Part 3 + Mitigation Part 1](https://iu.mediaspace.kaltura.com/media/t/1_4poqwa1b)|
 |10/29/2026|20|Mitigation Part 1 (2025)<br />Mitigation Part 2 (2025)|[6.1: 1-22](../Slides/06-Mitigation/06.1-Mitigation.pdf)<br />[6.1: 23-51](../Slides/06-Mitigation/06.1-Mitigation.pdf)||[TI Handbook](../Reference_Material/radeffects_handbook_TI.pdf): Chp. 6, pg. 75-87<br />[NSREC Short Course 2021 Part II](../Reference_Material/NSREC_SC_Y2021.pdf)||[6.1 - Mitigation Part 1](https://iu.mediaspace.kaltura.com/media/t/1_1lnjuhli)<br />[6.2 - Mitigation Part 2](https://iu.mediaspace.kaltura.com/media/t/1_7rvj7l8m)||
+|11/3/2026|21|Invited Talk: Greg Allen, NASA JPL|||||[Invited Talk: Greg Allen, NASA JPL](https://iu.mediaspace.kaltura.com/playlist/dedicated/354546882/1_zzhrc64n/1_t90nej6j)
 
 
 
