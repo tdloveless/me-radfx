@@ -35,3 +35,5 @@ The main contents are:
 * [6.1 - Mitigation Part 1 (2025)](https://iu.mediaspace.kaltura.com/media/t/1_1lnjuhli)
 * [6.2 - Mitigation Part 2 (2025)](https://iu.mediaspace.kaltura.com/media/t/1_7rvj7l8m)
 * [Invited Talk: Greg Allen, NASA JPL](https://iu.mediaspace.kaltura.com/playlist/dedicated/354546882/1_zzhrc64n/1_t90nej6j)
+* [LTSPICE IV Tutorial - Mitigating SEE)](https://iu.mediaspace.kaltura.com/media/t/1_fnbrhdx7/354546882)
+
